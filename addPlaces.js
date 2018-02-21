@@ -1,7 +1,7 @@
 // changed value of i to 0 and added missing bracket, semicolon, and double quote to fix bugs
 
 var places = []; // new array to store entered places
-var i = 0; // counter variable to track array indexes
+var i = 1; // counter variable to track array indexes
 
 // function to add input to array and then generate list after 5th submission
 function processInput() {
